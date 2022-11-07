@@ -1,0 +1,480 @@
+
+
+
+#img-height{
+    background-color: #303030;
+    width: 125px;
+    height: 68px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+
+}
+
+#top-nav{
+    background-color:  #303030;
+    margin-top: -9px;
+    margin-bottom: -9px;
+   
+    
+} 
+
+ #top-nav a{
+    color: white;
+    font-size: 18px;
+    padding-right: 25px;
+    margin-right: 10%;
+    font-weight: 600;
+    } 
+
+    
+  #banner{
+        background-image: url(image/banner.jpg);
+        height: 100%;
+        width: 100%;
+        background-repeat: round;
+    
+       
+       
+    } 
+
+
+  #banner h1{
+            color: white;
+            font-size: 70px;
+            font-weight: bold;
+            margin-top: 46px;
+            padding-left: 30px;
+            padding-top: 283px;
+            padding-bottom: 30px;
+        }
+    
+    
+    #banner p{
+        color: white  ;
+        color: white;
+        padding-left: 30px;
+        font-size: 24px;
+      
+    }  
+
+    #banner-btn-1{
+    
+    background-color: #e8631c;
+    margin-bottom: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    } 
+
+
+
+    /* card */
+
+    /* #banner2{
+        background-color: #e8631c;
+        background-repeat: no-repeat;
+        padding-top: 15%;
+        padding-left: 5%;
+        margin-top: -12%;
+    } */
+
+
+
+    #dance-tour{
+        background-color: #e8631c;
+        color: white;
+       
+    }
+    #dance-tour h1{
+        
+        text-align: center;
+        font-weight: bolder;
+        margin-top: 100%;
+        padding-bottom: 15px;
+        padding-top: 15%;
+        margin-top: -12%;
+    }
+    #dance-tour p{
+        text-align: center;  
+        font-size: 18px;
+    }
+    
+    #banner2 h1{
+        margin-top: -15%;
+        font-weight: bold;
+        text-align: center;
+        padding-top: 2%;
+        color: white
+       
+    }
+    
+    #banner2 p{
+        text-align: center;
+        padding-top: 1%;
+        padding-bottom: 5%;
+        color: white;
+        font-size: 18px;
+    }
+    
+    
+    
+    .card-body{
+        background-color: #303030;
+        
+        
+    }
+    
+    .card-title{
+        color: white;
+        text-align: center;
+    }
+    
+    .card-text{
+        color: white;
+        text-align: center;  
+    }
+
+    #card-body1{
+        background-color: #e8631c;
+    }
+   
+ #card-space{
+    padding-left: 1%;
+    gap: 10%;
+    padding-bottom: 4%;
+ }
+
+
+    
+    
+    
+ .bi-award{
+    font-size:169px;
+    text-align: center;
+}
+#pricing h1{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding-top: 3%;  
+      
+}
+#pricing p{
+   
+    text-align: center;
+    padding-top: 2%;  
+    font-size: 18px;
+    color: white;
+    padding-bottom: 3%;
+   
+}
+.col{
+    padding-left:4%;
+    padding-right: 4%;
+    padding-bottom: 5%;
+}
+#pricing{
+    margin-top: 10px;
+}
+#background{
+    
+    background-repeat:round;
+    padding-bottom: 5%;
+    background-color: #303030;
+ 
+  background-position: -50%;
+}
+#background1{
+    background-repeat:repeat-y;
+    margin-top: -1%;
+    background-color: #303030; 
+
+}
+
+
+#card-body1{
+    background-color: #e8631c;
+}
+.bi-award{
+    color: white;
+    background-color: #e8631c;
+}
+#bg1{
+    background-color: #e8631c;
+    height: 100%;
+    width: 100%;
+}
+
+#banner-btn-2{
+    background-color: #303030;
+    color: white;
+    margin-left: 12%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
+
+
+#img-dance-content h1{
+   
+    font-weight: bold;
+    color: white;
+    margin-top: 50%;
+    padding-left: 10%;
+}
+#img-dance-content p{
+    color: white;
+    padding-left: 10%;
+    margin-top: 7%;
+    font-size: smaller;
+
+}
+#banner-btn-3{
+    background-color: #303030;
+    color: white;
+    margin-left: 15%;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
+
+
+}
+
+
+
+
+
+#amazing-image{
+    margin-left: -12px;
+    margin-right: -0px; 
+    border: 2px solid red;
+}
+
+
+
+
+
+
+#img-dance-content1 p{
+    color: white;
+    padding-left: 10%;
+    margin-top: 7%;
+    font-size:smaller;
+
+}
+
+#img-dance-content1 h1{
+   
+    font-weight: bold;
+    color: white;
+    margin-top: 50%;
+    padding-left: 15%;
+    margin-left: -5%;
+}
+#img-dance-content1 p{
+    color: white;
+    padding-left: 10%;
+    margin-top: 7%;
+    font-size:smaller;
+
+}
+
+#amazing-dance h1{
+    border: 2px solid red;
+ text-align: end;
+ padding-top: -50%;
+}
+
+#img-content h1{
+   text-align: center;
+   color: white;
+   margin-top: -640px;
+   background-color: #e8631c;
+   margin-left: 700px;
+}
+
+#img-content p{
+    text-align: center;
+    color: white;
+    background-color: #e8631c;
+    margin-left: 700px;
+}
+
+#banner-btn-4{
+    margin-left: 850px;
+    background-color: #303030;
+    color: white;
+
+    margin-top: 25px;
+    margin-bottom: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5px;
+    padding-bottom:5px;
+    text-align: center;
+    font-weight: bold;
+}  
+
+#img-content{
+    background-color: #e8631c;
+    padding-bottom: 212px;
+
+    
+}
+
+
+#img-content img{
+    height: 718px;
+    width: 50%;
+}
+
+#best-dance h1 p{
+    border: 1px solid red;
+    padding-bottom: 30%;
+    margin-top: 20px;
+}
+
+#dancing-class{
+    background-color: #303030;
+}
+
+
+/* end?  */
+
+#our-statistics{
+    background-color:#e8631c;
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+}
+
+#our-statistics h1{
+    font-weight: bold;
+}
+
+#our-statistics p{
+    font-size: 18px;
+    margin-top: 2%;
+    margin-bottom: 7%;
+     
+ }
+ #online-status h2{
+     font-weight: bold;
+     margin-top: 2%;  
+ }
+ #dance1{
+     background-image: url(image/herbert\ banner.jpg);
+     background-repeat: round;
+   
+     
+ }
+ 
+ #dance1 h3{
+     font-weight: bold;
+     color: white;
+     font-size: 50px;
+     margin-right: 13%;
+     text-align: center;
+     padding-left: 19%;
+     background-repeat: repeat;
+     padding-bottom: 31.9%;
+    }
+ 
+ 
+ 
+
+ 
+ #dance1 p{
+     
+     color: white;
+     font-size: 24px;
+     padding-left: 4%;
+     padding-top: 25%;
+     text-align: center
+   
+ }
+ 
+ #subscriber{
+     background-color:#e8631c;
+     /* height: 591px;
+     width: 1360px; */
+ }
+ 
+ #subscriber h1{
+     text-align: center;
+     color: white;
+     font-weight: bold;
+     padding-top: 5%;
+     font-size: 50px
+ 
+ }
+ #subscriber p{
+     color: white;
+     text-align: center;
+       font-size: 25px;
+ 
+ }
+ #subscriber form {
+    text-align: center;
+    padding-bottom: 5%;
+  }
+ 
+ #search{
+     text-align: center;
+     padding-left: -35%;
+     font-size: 20px;
+ }
+ 
+ #footer{
+ background-color: #303030;
+ color: white;
+ 
+ }
+ #footer h4{
+ font-weight: bold;
+ font-size: 20px;
+ margin-top: 10%;
+ margin-left: 10%;
+ 
+ }
+ #footer p{
+     margin-left: 10%;   
+ }
+ #footer a{
+     text-align: center;
+     text-decoration: none;
+     color: white;
+ }
+ #social-icon{
+     margin-left: 10%;
+     font-size: 20px; 
+     margin-bottom: 10%;
+    
+ }
+ 
+ #footer1 h4{
+     font-size: medium;
+     font-size: 20px;
+     margin-left: 0%;
+     padding-top: 23%;
+ 
+ }
+ 
+ 
+ 
