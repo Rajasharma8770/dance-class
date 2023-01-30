@@ -105,12 +105,12 @@
     
     }
     #our-statistics p {
-        font-size: 15px;
+        font-size: 14px;
         
     }
 
     #dance1 p {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     #dance1 h3 {
@@ -121,14 +121,25 @@
         font-size: 35px;
     }
     #subscriber p {
-        font-size: 15px;
+        font-size: 14px;
+    }
+
+    #footer {
+
+        padding-top: 68px;
     }
 
     #footer h4 {
         margin-left: 5px;
+        margin-top: -55px;
     }
     #footer p {
         margin-left: 5px;
+    }
+    #social-icon {
+        margin-left: 1%;
+        font-size: 21px;
+        margin-bottom: 10%;
     }
   
 }
